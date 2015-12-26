@@ -78,7 +78,6 @@
 @interface UICountingLabel ()
 
 @property CGFloat startingValue;
-@property CGFloat destinationValue;
 @property NSTimeInterval progress;
 @property NSTimeInterval lastUpdate;
 @property NSTimeInterval totalTime;
